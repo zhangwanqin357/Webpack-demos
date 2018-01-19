@@ -1,0 +1,1 @@
+document.write('<h1>单入口文件</h1>');

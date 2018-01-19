@@ -1,0 +1,10 @@
+/*
+  .h1-----局部样式
+  :global(.h2)------全局样式
+*/
+.h1 {
+  color: red;
+}
+:global(.h2) {
+  color: blue;
+}
